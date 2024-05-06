@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url(image/yubi\ photo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.292);
+    background-blend-mode: multiply;
+}
+.div-container{
+    background-color: rgba(0, 0, 0, 0.459);
+    padding: 10px;
+}
+.div-container a{
+    float: right;
+    position: relative;
+    text-decoration: none;
+    padding: 17px;
+    color: white;
+    bottom: 33px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+.div-container h4{
+    color: white;
+    padding-left: 40px;
+}
+#home{
+    background-color: red;
+    padding: 5px 14px 5px 14px;
+    margin-top: 11px;
+    border: 1px solid red;
+    border-radius: 2px;
+}
+.father-container{
+    text-align: center;
+    margin-top: 15%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.father-container h1{
+    font-size: xx-large;    
+}
+.father-container button{
+    position: relative;
+    top: 28px;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    padding: 8px;
+    border-radius: 3px;
+}
+#more{
+    margin-right: 10px;
+}
